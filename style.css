@@ -509,6 +509,7 @@ body {
     font-size: 0.9rem;
   }
   .header__nav {
+    background-color: #cab6a1;
     position: absolute;
     top: 0;
     left: 0;
@@ -677,6 +678,6 @@ body {
     font-size: 0.9rem;
   }
   .services__sections-up {
-    margin-top: -3.5rem;
+    margin-top: -3rem;
   }
 }
