@@ -168,6 +168,7 @@ body {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  color: #000;
 }
 .sections__down {
   text-align: center;
@@ -674,5 +675,8 @@ body {
   }
   .main__boton a {
     font-size: 0.9rem;
+  }
+  .services__sections-up {
+    margin-top: -3.5rem;
   }
 }
